@@ -1,17 +1,18 @@
-# QUICKSAT (SAT Solver for CS202 Assignment-02)
+# QUICKSAT 
+## (SAT Solver for CS202 Assignment-02)
 
-### Qicksat is a SAT Solver which accepts the input in DIMACS format and then checks for Satisfiablity of the given set of clauses ,just like MINISAT.
-### Our SAT Solver uses a method of Semantic Tableaux to reach the output.
+Qicksat is a SAT Solver which accepts the input in DIMACS format and then checks for Satisfiablity of the given set of clauses, just like MINISAT.
+Our SAT Solver uses a method of Semantic Tableaux to reach the output.
 
 
-#### Compile the satsolver.cpp via :
+Compile the satsolver.cpp via :
 
 ```
 g++ quicksat.cpp
 
 ```
 
-#### Then execute the executable file created :
+Then execute the executable file created :
 ```
 ./a.out yourinput.cnf answer.txt
 
