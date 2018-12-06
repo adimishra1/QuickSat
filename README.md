@@ -1,5 +1,5 @@
 # QUICKSAT 
-## (SAT Solver for CS202 Assignment-02)
+## (SAT Solver for CS202 Assignment)
 
 Qicksat is a SAT Solver which accepts the input in DIMACS format and then checks for Satisfiablity of the given set of clauses, just like MINISAT.
 This is an implementation of SAT solver using improvised semantic tableaux and Davis–Putnam–Logemann–Loveland (DPLL) algorithm.
@@ -51,6 +51,5 @@ propositions to make them true if possible or return UNSAT if we already determi
 Documentation references and Further Reading
 ------------------------
 - https://en.wikipedia.org/wiki/Unit_propagation
-- http://studentnet.cs.manchester.ac.uk/resources/library/3rd-year-projects/2015/rebecca.doran.pdf
-- https://en.wikipedia.org/wiki/Boolean_satisfiability_algorithm_heuristics
+- https://en.wikipedia.org/wiki/DPLL_algorithm
 
