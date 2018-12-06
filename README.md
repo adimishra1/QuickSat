@@ -51,6 +51,5 @@ propositions to make them true if possible or return UNSAT if we already determi
 Documentation references and Further Reading
 ------------------------
 - https://en.wikipedia.org/wiki/Unit_propagation
-- https://en.wikipedia.org/wiki/Boolean_satisfiability_algorithm_heuristics
 - https://en.wikipedia.org/wiki/DPLL_algorithm
 
