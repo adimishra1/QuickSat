@@ -44,7 +44,7 @@ int decisions;
 
 
 // Defining the functions used
-node* unit_propagation(node *tree,int p);//Solves the
+node* unit_propagation(node *tree,int p);//Simplifies the node assuming p is true
 int best_poss(node *tree);              //This function return the best possible integer which can be removed from the tree-clauses
 void make_branch(node *tree , int p);   //Makes the left and right branch of tree
 void sat_solver(node *tree);            //Main function which solves sudoku
