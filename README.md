@@ -47,6 +47,10 @@ So we calculated weighted frequency for each element as 2*(frequency of the prop
 Once the maximium frequency of all the clauses in the list becomes 1 then we need not take decisions anymore and we assign values to the
 propositions to make them true if possible or return UNSAT if we already determined values of propositions do not satisfy the list of literals.
 
+Sample Output
+---------------------
+The sample output for Sudoku (9x9).
+![Output for 9x9 sudoku encoding](SampleOutput.jpg?raw=true "Output for 9x9 sudoku encoding")
 
 Documentation references and Further Reading
 ------------------------
