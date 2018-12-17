@@ -49,7 +49,8 @@ propositions to make them true if possible or return UNSAT if we already determi
 
 Sample Output
 ---------------------
-The sample output for Sudoku (9x9).
+The sample output for Sudoku (9x9):
+
 ![Output for 9x9 sudoku encoding](SampleOutput.jpg?raw=true "Output for 9x9 sudoku encoding")
 
 Documentation references and Further Reading
