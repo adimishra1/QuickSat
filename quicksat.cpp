@@ -10,7 +10,7 @@ using namespace std;
 
 
 
-//Defining macros which will be used a lot in the code
+//Defining macros
 #define rep(i,n) for(int (i)=0;(i)<(n);(i)++)
 #define pb push_back
 #define all(v) v.begin(),v.end()
